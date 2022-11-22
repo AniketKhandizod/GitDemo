@@ -24,7 +24,12 @@ public void titleCheck() throws MalformedURLException
     Assert.assertTrue(driver.getTitle().matches("Rahul Shetty Academy"));
 
 	
-	
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
 	
 }
 }
