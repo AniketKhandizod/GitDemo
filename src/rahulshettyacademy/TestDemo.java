@@ -23,33 +23,7 @@ public void titleCheck() throws MalformedURLException
 	driver.get("https://rahulshettyacademy.com");
     Assert.assertTrue(driver.getTitle().matches("Rahul Shetty Academy"));
 
-	
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
-	System.out.println();
+
 	
 }
 }
